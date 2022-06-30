@@ -1,7 +1,7 @@
 # Instalation
 
 ```sh
-npm install git+git@github.com:FRST-Falconi/iframe.communication.git#master --save
+npm install git+git@github.com:robertolima-dev/iframe.communication.git#master --save
 ```
 
 # How to use it

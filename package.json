@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "iframe-communication",
+  "version": "0.0.5",
+  "main": "./index.js",
+  "types": "./src/index.d.ts",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}

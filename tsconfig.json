@@ -1,0 +1,15 @@
+{
+  // Mude isso para corresponder ao seu projeto
+  "include": ["./**/*"],
+  "compilerOptions": {
+    // Diz para o TypeScript ler arquivos JS.
+    // Normalmente, seriam ignorados como arquivos fonte
+    "allowJs": true,
+    // Gerar arquivos d.ts
+    "declaration": true,
+    // A compilação só gerará arquivos
+    // d.ts na saída
+    "module": "commonjs",
+    "outDir": "src/"
+  }
+}
